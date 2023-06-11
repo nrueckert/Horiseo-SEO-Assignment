@@ -1,6 +1,6 @@
 # Week 1 Assignment
 
-## This is an assignment where I had to reverse engineer a website fix some html/css and make it semantic.
+## This is an assignment where I had to reverse engineer a website and fix some html/css and make it semantic.
 
  
 
