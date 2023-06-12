@@ -11,7 +11,7 @@
 
 ## Usage
 
-You open the .html in a browser and can see the semantic HTML in inspect.
+You open the .html in a browser and can see the semantic HTML in inspect.<br>
 Or visit it at https://nrueckert.github.io/Horiseo-SEO-Assignment/#social-media-marketing
 
 ## License
